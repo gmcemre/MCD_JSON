@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_JSON", "MCD_JSON\MCD_JSON.csproj", "{9A5356A3-85CC-4C46-AA65-8DF09A2A96FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_JSONOkuma", "MCD_JSONOkuma\MCD_JSONOkuma.csproj", "{E1E6B749-65D0-4911-896A-E4638D8883F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9A5356A3-85CC-4C46-AA65-8DF09A2A96FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A5356A3-85CC-4C46-AA65-8DF09A2A96FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A5356A3-85CC-4C46-AA65-8DF09A2A96FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E6B749-65D0-4911-896A-E4638D8883F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E6B749-65D0-4911-896A-E4638D8883F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E6B749-65D0-4911-896A-E4638D8883F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E6B749-65D0-4911-896A-E4638D8883F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
